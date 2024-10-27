@@ -2133,6 +2133,18 @@ input, select, textarea {
 				width: 100%;
 			}
 
+		.image.avatar_square {
+			margin: 0 0 2em 0;
+			width: 100%;
+		}
+			.image.avatar_square before {
+				display: none;
+			}
+
+			.image.avatar_square img {
+				width: 100%;
+			}
+
 		.image.avatar {
 			border-radius: 100%;
 		}
