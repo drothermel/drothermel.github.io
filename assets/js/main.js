@@ -93,6 +93,7 @@
 
 			}
 
+	/*
 	// Main Sections: Two.
 
 		// Lightbox gallery.
@@ -113,5 +114,5 @@
 				});
 
 			});
-
+	*/
 })(jQuery);
